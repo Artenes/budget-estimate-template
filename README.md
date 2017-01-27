@@ -4,7 +4,7 @@ This is a simple html page (styled with Bootstrap and using Font Awesome icons) 
 
 ## Demo
 
-You can checkout the template in [my web site](http://artenes.github.io/budget-estimate-template).
+You can checkout the template in [my web site](http://artenes.github.io/budget-estimate-template/).
 
 ## Description
 ![Description](screenshots/description.png)
